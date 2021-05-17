@@ -1,7 +1,7 @@
 ---
-title: Real Estate Across the United States (REXUS) (Lease)
-created: '2020-11-10T17:12:59.431420'
-modified: '2021-05-08T16:52:42.011599'
+title: Real Estate Across the United States (REXUS) Inventory (Building)
+created: '2020-11-10T17:12:59.337378'
+modified: '2021-05-08T16:52:34.672230'
 state: active
 type: dataset
 tags:
@@ -13,7 +13,7 @@ tags:
   - Real Property
 groups: []
 csv_url: >-
-  https://inventory.data.gov/dataset/2cdc97b5-3029-4ec3-b3bf-baec7948bad1/resource/db2e5040-a1fc-4581-975c-e38ccf70b2e9/download/data_gov_lse_rexus.csv
+  https://inventory.data.gov/dataset/04247624-1d6b-4e03-84eb-9eda1a6ea638/resource/cbce4462-d19a-4de4-a8f5-15910a4cb8b0/download/data_gov_bldg_rexus.csv
 json_url: ''
 layout: post
 
